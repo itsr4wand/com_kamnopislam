@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/images/logo.png" alt="AndroidIDE" width="80" height="80"/>
+  <img src="./assets/images/logo.png" alt="Kamnop Islam" width="80" height="80"/>
 </p
 
 <center><h2 align="center"><b>Kamnop Islam</b></h2></center>
@@ -24,7 +24,7 @@
 
 ## Installation
 
-- Download the AndroidIDE APK
+- Download the Kamnop Islam APK
   from [releases](https://github.com/R4wand-krd/com_kamnopislam/releases).
 
 ## Contact Us

@@ -158,11 +158,7 @@ class _HomeScreenState extends State<HomeScreen> {
 
     webViewOneController = WebViewController()
       ..loadRequest(Uri.parse('https://kamnopislam.blogspot.com'))
-      ..setJavaScriptMode(JavaScriptMode.unrestricted)
-      ..addJavaScriptChannel(
-        'SnackBar',
-        onMessageReceived: (message) {},
-      );
+      ..setJavaScriptMode(JavaScriptMode.unrestricted);
   }
 
   void openDrawer() {
